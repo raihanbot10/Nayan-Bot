@@ -4,7 +4,7 @@ module.exports.config = {
 	permission: 2,
 	credits: "nayan",
 	prefix: false,
-	description: "",
+	description: "murgi",
 	category: "without prefix",
 	usages: "[tag]",
 	cooldowns: 5
